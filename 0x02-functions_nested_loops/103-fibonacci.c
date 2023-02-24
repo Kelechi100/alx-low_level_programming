@@ -31,7 +31,7 @@ int main(void)
 }
 
 
-104-fibonacci.c
+104 - fibonacci.c
 
 #include <stdio.h>
 
