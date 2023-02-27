@@ -29,7 +29,7 @@ int main(void)
 			putchar(n + '0');
 			break;
 		}
-i	}
+	}
 
 	return (0);
 }
